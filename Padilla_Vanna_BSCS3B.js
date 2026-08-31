@@ -9,7 +9,7 @@ let grades = [90, 85, 88];
 let activities = ["Quiz", "Project", "Exam"];
 
 // Conditional 1
-if (age >= 18) {
+if (age >= 99) {
   console.log(studentName + " is an adult.");
 }
 
