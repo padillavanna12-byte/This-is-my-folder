@@ -1,5 +1,5 @@
 // Variables
-let studentName = "Vanna";
+let studentName = "Vannana";
 let age = 20;
 let course = "BSCS";
 
@@ -9,7 +9,7 @@ let grades = [90, 85, 88];
 let activities = ["Quiz", "Project", "Exam"];
 
 // Conditional 1
-if (age >= 99) {
+if (age >= 20) {
   console.log(studentName + " is an adult.");
 }
 
