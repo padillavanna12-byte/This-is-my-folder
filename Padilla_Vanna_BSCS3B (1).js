@@ -4,9 +4,9 @@ let course = "BSCS";
 let yearLevel = 3;
 let section = "3B";
 let school = "NWSSU";
-let grade1 = 90;
-let grade2 = 88;
-let grade3 = 92;
+let grade1 = 92;
+let grade2 = 85;
+let grade3 = 95;
 let status = "Regular";
 
 const schoolYear = "2026-2027";
