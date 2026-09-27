@@ -6,7 +6,7 @@ let course = "BSCS";
 // Arrays
 let subjects = ["Programming", "Database", "Networking"];
 let grades = [90, 85, 88];
-let activities = ["Quiz", "Project", "Exam"];
+let activities = ["Quiz", "MCO", "Exam"];
 
 // Conditional 1
 if (age >= 20) {
