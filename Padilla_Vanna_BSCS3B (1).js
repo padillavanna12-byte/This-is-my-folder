@@ -22,6 +22,7 @@ const semester = "First Semester";
 const studentType = "College Student";
 const department = "Computer Studies";
 
+// 3. DISPLAY STUDENT INFORMATION
 console.log(`Student Name: ${studentName}`);
 console.log(`Age: ${age}`);
 console.log(`Course: ${course}`);
