@@ -5,7 +5,7 @@ let discountRate = 0.10;
 
 // Array of available clothes
 let clothes = [
-    "Floral Dress",
+    "Dress",
     "Crop Top",
     "Denim Skirt",
     "Pink Top"
