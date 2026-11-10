@@ -10,6 +10,7 @@ let grade2 = 85;
 let grade3 = 95;
 let status = "Regular";
 
+// 2. CONST VARIABLES
 const schoolYear = "2026-2027";
 const subject1 = "Programming";
 const subject2 = "Web Development";
