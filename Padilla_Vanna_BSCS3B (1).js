@@ -1,3 +1,4 @@
+// 1. LET VARIABLES
 let studentName = "Vanna";
 let age = 20;
 let course = "BSCS";
