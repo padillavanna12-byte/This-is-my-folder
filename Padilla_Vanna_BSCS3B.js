@@ -8,7 +8,7 @@ let clothes = [
     "Floral Dress",
     "Crop Top",
     "Denim Skirt",
-    "Sando"
+    "Pink Top"
 ];
 
 // Array of available colors
