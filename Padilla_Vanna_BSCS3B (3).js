@@ -1,5 +1,5 @@
 let studentName = "Vanna";
-let age = 21;
+let age = 20;
 let course = "BSCS";
 
 let subjects = ["Web Development", "Java", "Database"];
