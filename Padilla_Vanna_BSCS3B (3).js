@@ -4,7 +4,7 @@ let course = "BSCS";
 
 let subjects = ["Web Development", "Java", "Database"];
 let grades = [95, 88, 92];
-let activities = ["Assignment", "Midterm", "Final Exam"];
+let activities = ["Activities", "Midterm", "Final Exam"];
 
 if (age >= 18) {
     console.log(studentName + " is already an adult.");
