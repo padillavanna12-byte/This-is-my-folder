@@ -1,7 +1,7 @@
 // Variables
 let studentName = "Vannana";
 let age = 20;
-let course = "BSCS";
+let course = "Bachelor of Science in Computer Science";
 
 // Arrays
 let subjects = ["Programming", "Database", "Networking"];
